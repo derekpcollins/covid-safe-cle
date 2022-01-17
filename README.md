@@ -12,12 +12,13 @@ This is a list of bars & restaurants throughout the Cleveland area that require 
 6. **Acqua di Luca, 500 W. St. Clair Ave., Cleveland**
 7. **Luca Italian Cuisine, 2100 Superior Viaduct, Cleveland**
 8. **Luca West, 24600 Detroit Road, Westlake**
+9. **[Boston Mills &amp; Brandywine Restaurants](https://www.bmbw.com/explore-the-resort/during-your-stay/dining.aspx), 7100 Riverview Rd., Brecksville**: "Guests ages 12 and over will be required to show proof of COVID-19 vaccinations to dine at our indoor, cafeteria-style restaurants."
 
 ## Honorable Mentions
 These are a few places that don't directly require proof of vaccination, but I've found to be safer than most places for one reason or another.
 
 1. **[Mahall's Twenty Lanes](http://mahalls20lanes.com/), 13200 Madison Ave., Lakewood**: This bar includes a music venue and – as the name suggests – twenty bowling lanes. You'll find a nice list of cocktails, canned and bottled beers, and red and white wine as well as some great bar food (e.g. hamburgers, sandwhiches, fries, etc.). While the bar itself doesn't require proof of vaccination, the associated music venue does, so you can be pretty sure that most of the people there are vaccinated.
-2. **[Western Reserve](https://www.westernreservedistillers.com), 14221 Madison Ave., Lakewood**: Western Reserve is a distillery in Lakewood that has an attached restaurant where they serve their local spirits along with a couple of craft beers on tap and a great food menu. The reason it is on this list is that they have a great little outdoor bar with garage-style windows that open to the inside and they've always allowed me to sit outside even when it's cold and snowing. So if the weather is tollerable to you, then this is a great place where you can sit outside and enjoy a drink or some nice food.
+2. **[Western Reserve](https://www.westernreservedistillers.com), 14221 Madison Ave., Lakewood**: Western Reserve is a distillery in Lakewood that has an attached restaurant where they serve their local spirits along with a couple of craft beers on tap and a great food menu. The reason it is on this list is that they have a great little outdoor bar with garage-style windows that open to the inside and they've always allowed me to sit outside even when it's cold and snowing. So if the weather is tolerable to you, then this is a great place where you can sit outside and enjoy a drink or some nice food.
 
 ## Contribute 
 1. Fork this repository
