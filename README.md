@@ -29,4 +29,4 @@ These are a few places that don't directly require proof of vaccination, but I'v
 8. Create new Pull Request
 
 ## About
-My name is [Derek P. Collins](https://derekpcollins.com/about) and I live in Lakewood, OH. I made this list so that I would always have a quick references to the places that I feel comfortable going given the current circumstances with Covid-19. If I've missed anything, please contribute using the instructions above, or let me know via [Twitter](https://twitter.com/derekpcollins) or [email](mailto:derekpcollins@me.com).
+My name is [Derek P. Collins](https://derekpcollins.com/about) and I live in Lakewood, OH. I made this list so that I would always have a quick references to the places that I feel comfortable going given the current circumstances with COVID-19. If I've missed anything, please contribute using the instructions above, or let me know via [Twitter](https://twitter.com/derekpcollins) or [email](mailto:derekpcollins@me.com).
