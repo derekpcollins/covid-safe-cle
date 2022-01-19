@@ -13,6 +13,7 @@ This is a list of bars & restaurants throughout the Cleveland area that require 
 7. **Luca Italian Cuisine, 2100 Superior Viaduct, Cleveland**
 8. **Luca West, 24600 Detroit Road, Westlake**
 9. **[Boston Mills &amp; Brandywine Restaurants](https://www.bmbw.com/explore-the-resort/during-your-stay/dining.aspx), 7100 Riverview Rd., Brecksville**: "Guests ages 12 and over will be required to show proof of COVID-19 vaccinations to dine at our indoor, cafeteria-style restaurants."
+10. **[The Cleveland Orchestra](https://www.clevelandorchestra.com), 11001 Euclid Ave., Cleveland**: "As of January 3, 2022, Guests will be required to show proof of full Covid-19 vaccination (two doses, plus a booster, per CDC guidelines)... Guests who are unable to be vaccinated or have not received their booster dose will be required to provide proof of a negative Covid test."
 
 ## Honorable Mentions
 These are a few places that don't directly require proof of vaccination, but I've found to be safer than most places for one reason or another.
