@@ -2,7 +2,7 @@
 
 This is a list of bars & restaurants throughout the Cleveland area that require proof of COVID-19 vaccination or a negative COVID-19 test within the last 72-24 hours (this differs by location).
 
-*Last updated January 19, 2022*
+*Last updated January 25, 2022*
 
 1. **[LBM](http://www.lbmbar.com/), 12301 Madison Ave., Lakewood**: A self-described viking bar that plays loud metal music and serves up Japanese-inspired dishes. While LBM is primarily a cocktail bar, they do offer a wide selection of canned and bottled beer as well as a basic red and white wine.
 2. **[Toast](https://www.toastcleveland.com), 1365 West 65th Street, Cleveland**: "Toast is a warm and friendly wine bar in Cleveland’s Gordon Square arts district," that serves, "wholesome, scratch-made food & cocktails made from local, sustainably-sourced ingredients."
