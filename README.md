@@ -9,7 +9,7 @@ This is a list of bars & restaurants throughout the Cleveland area that require 
 3. **[Felice Urban Cafe](http://feliceurbancafe.com/), 12502 Lachmere Boulevard, Cleveland**
 4. **[MOJO World Eats](https://www.mojocle.com), 2196 Lee Road, Cleveland Heights**
 5. **[Happy Dog](https://happydogcleveland.com), 5801 Detroit Ave., Cleveland**: "The Happy Dog is a neighborhood corner bar," that serves, "hot dogs and beer, and lots of live music, from rock and country to punk and polka."
-6. **[Acqua di Luca](https://www.acquadiluca.com), 500 W. St. Clair Ave., Cleveland**
+6. **[Acqua di Luca](https://www.acquadiluca.com), 500 W. St. Clair Ave., Cleveland**: "Effective December 22nd and until further notice, all Luca Restaurants will require guests to show proof of vaccination upon entering the restaurant, except to pick up To Go orders. All guests will be required to wear a mask, except when seated while eating and drinking, regardless of vaccination status." *This also applies to Luca Italian Cuisine and Luca West below.*
 7. **[Luca Italian Cuisine](https://www.lucacleveland.com), 2100 Superior Viaduct, Cleveland**
 8. **[Luca West](https://www.lucawest.com/), 24600 Detroit Road, Westlake**
 9. **[Boston Mills &amp; Brandywine Restaurants](https://www.bmbw.com/explore-the-resort/during-your-stay/dining.aspx), 7100 Riverview Rd., Brecksville**: "Guests ages 12 and over will be required to show proof of COVID-19 vaccinations to dine at our indoor, cafeteria-style restaurants."
